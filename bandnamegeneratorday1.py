@@ -1,0 +1,1 @@
+print("apke band ka naam " + input("apki city ka naam \n")+" "+input("apke pet ka naam \n"))
